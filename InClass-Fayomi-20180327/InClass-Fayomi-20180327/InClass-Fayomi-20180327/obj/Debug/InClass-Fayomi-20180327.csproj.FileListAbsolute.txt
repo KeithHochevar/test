@@ -1,0 +1,12 @@
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClass-Fayomi-20180327\InClass-Fayomi-20180327\bin\Debug\InClass-Fayomi-20180327.exe.config
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClass-Fayomi-20180327\InClass-Fayomi-20180327\bin\Debug\InClass-Fayomi-20180327.exe
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClass-Fayomi-20180327\InClass-Fayomi-20180327\bin\Debug\InClass-Fayomi-20180327.pdb
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClass-Fayomi-20180327\InClass-Fayomi-20180327\obj\Debug\InClass-Fayomi-20180327.csprojResolveAssemblyReference.cache
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClass-Fayomi-20180327\InClass-Fayomi-20180327\obj\Debug\InClass-Fayomi-20180327.exe
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClass-Fayomi-20180327\InClass-Fayomi-20180327\obj\Debug\InClass-Fayomi-20180327.pdb
+C:\Users\s01054601\Desktop\InClass-Fayomi-20180327\InClass-Fayomi-20180327\InClass-Fayomi-20180327\bin\Debug\InClass-Fayomi-20180327.exe.config
+C:\Users\s01054601\Desktop\InClass-Fayomi-20180327\InClass-Fayomi-20180327\InClass-Fayomi-20180327\obj\Debug\InClass-Fayomi-20180327.exe
+C:\Users\s01054601\Desktop\InClass-Fayomi-20180327\InClass-Fayomi-20180327\InClass-Fayomi-20180327\obj\Debug\InClass-Fayomi-20180327.pdb
+C:\Users\s01054601\Desktop\InClass-Fayomi-20180327\InClass-Fayomi-20180327\InClass-Fayomi-20180327\bin\Debug\InClass-Fayomi-20180327.exe
+C:\Users\s01054601\Desktop\InClass-Fayomi-20180327\InClass-Fayomi-20180327\InClass-Fayomi-20180327\bin\Debug\InClass-Fayomi-20180327.pdb
+C:\Users\s01054601\Desktop\InClass-Fayomi-20180327\InClass-Fayomi-20180327\InClass-Fayomi-20180327\obj\Debug\InClass-Fayomi-20180327.csprojResolveAssemblyReference.cache
